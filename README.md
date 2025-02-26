@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibrahim Elsadany.
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills.
-- 🌱 I’m currently learning android native with java.
+- 🌱 I’m currently learning android native with Kotlin.
 - 📫 How to reach me : this is my mail ibrahimelsadany33@gmail.com 
 
 <!---
